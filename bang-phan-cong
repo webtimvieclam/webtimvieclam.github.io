@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>phan chia cong viec nhom 9</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th colspan="3"> Bảng phân chia công việc </th>
+        </tr>
+        <tr>
+            <td> Họ Và Tên </td>
+            <td> Mã SỐ SINH VIÊN </td>
+            <td> NHIỆM VỤ 
+                 </td>
+           
+<ul></ul>
+
+
+             </td>
+        </tr>
+        <tr>
+            <td> Trần Nam Nguyên </td>
+            <td>23071291</td>
+            <td> <ul>Tìm và sửa các lỗi sai trong bài code </ul>
+            <ul> chỉnh sửa phông chữ và màu sắc cho trang </ul> </td>
+           
+        </tr>
+        <tr>
+            <td>Nguyễn Phụ Long</td>
+            <td>23070277</td>
+            <td><ul>Tìm hiểu về wireframe</ul></td>
+            
+        </tr>
+        <tr>  <td>Vũ Nguyễn Yên Bình</td>
+            <td>23070422</td>
+            <td><ul> Làm nội dung cho trang</ul></td>
+           
+        </tr>
+        <tr>
+            <td> Nguyễn Duy Chương</td>
+            <td>23070566</td>
+            <td> <ul>Code chính của team
+            <ul>Tạo trang github</ul>
+           
+           
+            </tr>
+        <tr>
+            <td> Lê Văn Mạnh </td>
+            <td>23070302</td>
+            <td><ul> nhóm trưởng, theo dõi tiến độ</ul>
+                <ul> lập bảng phân công </ul>
+             </td>
+            
+        </tr>
+        <tr>
+            <td> Kiều Ngọc Châu</td>
+            <td>23070589</td>
+            <td> <ul>Tìm hiểu các trang web công việc  </ul></td>
+        </tr>
+    </table>
+</body>
+</html>
